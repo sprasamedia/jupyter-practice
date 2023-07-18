@@ -13,4 +13,8 @@ To run the code snippets, you need the following dependencies:
 - matplotlib
 - seaborn 
 - numpy
-- 
+
+
+## Code Snippets
+
+`jupyter1.ipynb`: This Jupyter Notebook contains code for analyzing the data and creating a scatter plot in 3D to visualize the relationships between 'numeric_column1', 'numeric_column2', and 'numeric_column3'.
